@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bitacora</string>
+    <string name="bt_guardar">guardar</string>
+</resources>
